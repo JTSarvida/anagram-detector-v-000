@@ -7,5 +7,6 @@ class Anagram
     @string = string
   end
   
-  
+  def match(array)
+    array.each do ||
 end
