@@ -6,4 +6,6 @@ class Anagram
   def initialization(string)
     @string = string
   end
+  
+  
 end
