@@ -3,7 +3,7 @@ class Anagram
   
   attr_accessor :string
   
-  def initialization(:string)
+  def initialization(string)
     @string = string
   end
   
