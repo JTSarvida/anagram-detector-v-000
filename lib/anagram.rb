@@ -11,4 +11,5 @@ class Anagram
     array.each do |string|
       if array string.split("").sort == @name.split("").sort
     end
+  end
 end
